@@ -1,0 +1,4 @@
+#Thu Oct 31 11:49:01 ART 2019
+base.0=/home/nacho/AndroidStudioProjects/faketer/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
