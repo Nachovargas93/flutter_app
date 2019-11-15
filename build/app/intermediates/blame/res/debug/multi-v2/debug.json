@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nacho/AndroidStudioProjects/faketer/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/home/nacho/Desktop/flutter_app/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/nacho/AndroidStudioProjects/faketer/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/nacho/Desktop/flutter_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
